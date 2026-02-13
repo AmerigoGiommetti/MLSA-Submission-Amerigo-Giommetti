@@ -1,0 +1,10 @@
+torch
+numpy
+pandas
+matplotlib
+tqdm
+nltk
+tqdm
+datasets
+tokenizers
+rouge-score

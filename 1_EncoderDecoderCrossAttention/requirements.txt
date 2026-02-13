@@ -1,0 +1,8 @@
+torch
+numpy
+pandas
+matplotlib
+datasets
+tqdm
+nltk
+rouge-score
